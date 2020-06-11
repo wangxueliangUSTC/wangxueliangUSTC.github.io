@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Xueliang Wang
+title   : 小王同学的后花园
 description: >  # this means to ignore newlines until "Language & timezone"
-  Find your way home.
+  A website with awesome stories！
 
 
 ## => Language and Timezone
@@ -35,10 +35,10 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Xueliang Wang
+  name      : 小王同学
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : 非典型工科男.
   email     : wangxueliang95@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -49,13 +49,13 @@ author:
   zhihu     : mo-mo-55-8-59# "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : wangxueliangUSTC# "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: wangxueliangUSTC/wangxueliangUSTC.github.io
 repository_tree: master
 
 
@@ -74,7 +74,7 @@ paths:
 excerpt_separator: <!--more-->
 
 ## license
-license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
+#license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
@@ -84,14 +84,14 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
+mathjax: true# false (default), true
+mathjax_autoNumber: true# false (default), true
 
 ## Mermaid
-mermaid: # false (default), true
+mermaid: true# false (default), true
 
 ## Chart
-chart: # false (default), true
+chart: true# false (default), true
 
 
 ## => Paginate
@@ -151,9 +151,9 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : # LeanCloud App id
-    app_key   : # LeanCloud App key
-    app_class : # LeanCloud App class
+    app_id    : UmbfgrHu2dM6DjS59moDYjVD-gzGzoHsz# LeanCloud App id
+    app_key   : ltFkX69EwSaWwlAc0uSUGLFd# LeanCloud App key
+    app_class : github_io# LeanCloud App class
 
 
 ## => Search
