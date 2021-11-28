@@ -1,16 +1,8 @@
 ---
 layout: article
 title: 《机器学习实战》学习总结（五）——Logistic回归
-mode: immersive
 aside:
   toc: true
-header:
-  theme: dark
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#123'
-  background_image: false
 tags: ['机器学习','统计学习方法']
 ---
 
@@ -20,11 +12,11 @@ tags: ['机器学习','统计学习方法']
 
 ## **摘要**
 
-\1. Logistic回归分类
+1. Logistic回归分类
 
-\2. 梯度下降法
+2. 梯度下降法
 
-\3. 代码实现与解释
+3. 代码实现与解释
 
 ## **Logistic回归**
 

@@ -1,16 +1,8 @@
 ---
 layout: article
 title: 《机器学习实战》学习总结（三）——决策树算法（2）
-mode: immersive
 aside:
   toc: true
-header:
-  theme: dark
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#123'
-  background_image: false
 tags: ['机器学习','统计学习方法']
 ---
 
@@ -20,15 +12,15 @@ tags: ['机器学习','统计学习方法']
 
 ## **摘要**
 
-\1. CART决策树
+1. CART决策树
 
-\2. 决策树的剪枝技术
+2. 决策树的剪枝技术
 
-\3. Bagging与随机森林
+3. Bagging与随机森林
 
-\4. 决策树中缺失值的处理
+4. 决策树中缺失值的处理
 
-\5. 决策树代码
+5. 决策树代码
 
 *注：对于学习《机器学习实战》的读者，本节代码部分对应第九章“树回归”。*
 

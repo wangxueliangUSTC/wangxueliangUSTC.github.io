@@ -1,16 +1,8 @@
 ---
 layout: article
 title: 《机器学习实战》学习总结（二）——决策树算法
-mode: immersive
 aside:
   toc: true
-header:
-  theme: dark
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#123'
-  background_image: false
 tags: ['机器学习','统计学习方法']
 ---
 
