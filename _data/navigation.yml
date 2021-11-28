@@ -49,7 +49,7 @@ header:
       # @end locale config
     url: /about.html
   - title:      Docs
-    url:        /posts/
+    url:        /_posts/
 
 
 layouts:
