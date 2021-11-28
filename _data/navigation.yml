@@ -48,8 +48,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
-  - title:      Docs
-    url:        /_posts/
+  - titles:
+    url: /leetcode/
 
 
 layouts:
