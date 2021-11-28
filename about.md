@@ -24,6 +24,7 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+comment: true
 ---
 
 > ###### **一件事要么不做，要做就做到最好**
