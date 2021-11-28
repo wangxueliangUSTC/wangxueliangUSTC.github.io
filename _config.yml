@@ -35,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : 王学良
+  name      : 王学良的个人网站
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : 非典型工科男.
@@ -118,7 +118,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: "gitalk" # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -127,12 +127,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
+    clientID    : 455cdc358e296a1f2b5a # GitHub Application Client ID
+    clientSecret: 250fa2daaec4e3507f50bbb37750dad9f9117353 # GitHub Application Client Secret
+    repository  : https://github.com/settings/applications/1775706 # GitHub repo
+    owner       : wangxueliangUSTC # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+      - wangxueliangUSTC
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
