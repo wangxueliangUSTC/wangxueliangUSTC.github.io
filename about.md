@@ -29,7 +29,7 @@ titles:
 
 Hi，我叫王学良，2021年加入快手，现在负责快手上下滑场景的短视频推荐。
 
-- 2021: 微信公众号 [口袋AI算法](https://mp.weixin.qq.com/s/mM7rkV7X9fo76Hd7cImqVA) 创办了，欢迎关注；分身日常出没于[知乎](https://www.zhihu.com/people/mo-mo-55-8-59) 
+- 2021: 创办了微信公众号 [口袋AI算法](https://mp.weixin.qq.com/s/mM7rkV7X9fo76Hd7cImqVA)；分身日常出没于 [知乎](https://www.zhihu.com/people/mo-mo-55-8-59)，欢迎交流
 - 2021: 硕士毕业于中国科学技术大学，研究方向主要是自然语言处理和少样本学习。硕士期间连续三年校一等奖学金，中科大2021年校优秀毕业生
 - 2018: 本科毕业于西安电子科技大学，本科专业排名Rank 3/186，多次获得国家级奖学金，西电2018年校优秀毕业生
 - 2018: 微软 MARCO 机器阅读理解比赛 Rank 1，斯坦福 SQuAD 机器阅读理解比赛 Rank 10
