@@ -49,7 +49,11 @@ header:
       # @end locale config
     url: /about.html
   - titles:
-    url: /leetcode/
+      en:       Life
+      zh:       生活
+      zh-Hans:  生活
+      zh-Hant:  生活
+    url:        /leetcode/
 
 
 layouts:
