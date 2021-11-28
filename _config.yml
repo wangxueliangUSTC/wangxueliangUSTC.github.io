@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 王学良
+title   : 王学良的个人网站
 description: >  # this means to ignore newlines until "Language & timezone"
   A website with awesome stories！
 
@@ -35,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : 王学良的个人网站
+  name      : 王学良
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : 非典型工科男.
