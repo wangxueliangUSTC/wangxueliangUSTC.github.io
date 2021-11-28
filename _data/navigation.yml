@@ -48,6 +48,12 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+  - titles:
+      en:       Tools
+      zh:       工具
+      zh-Hans:  工具
+      zh-Hant:  工具
+    url:        /assets/category/work/tool/tool.html
 
 
 layouts:
