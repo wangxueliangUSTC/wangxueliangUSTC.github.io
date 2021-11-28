@@ -23,7 +23,6 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: aboutMe
 ---
 
 > ###### **一件事要么不做，要做就做到最好**
