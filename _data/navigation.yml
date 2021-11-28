@@ -48,6 +48,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+  - title:      Docs
+    url:        /posts/
 
 
 layouts:
