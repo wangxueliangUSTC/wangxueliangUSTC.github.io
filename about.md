@@ -27,7 +27,7 @@ titles:
 
 > ###### **一件事要么不做，要做就做到最好**
 
-Hi，我是王学良（Xueliang Wang），现任快手科技算法工程师，主要负责上下滑场景的短视频推荐。
+Hi，我是王学良（Xueliang Wang），现任快手科技算法工程师，专注于快手上下滑场景的消费和留存优化，主要负责LTR、强化学习和全链路优化相关工作。
 
 - 2022.05: 论文"Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation" 被会议 KDD 2022 接收
 - 2021.07: 加入快手科技，担任算法工程师
